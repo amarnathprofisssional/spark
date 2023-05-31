@@ -1,0 +1,2 @@
+https://kontext.tech/article/450/install-spark-300-on-windows-10
+https://kontext.tech/article/447/install-hadoop-330-on-windows-10-step-by-step-guide
